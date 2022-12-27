@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "1YlHcasF1gfExwHIWcWzqPu0rJOu2Jjv/YBoMV2KILI2K4Yi31/mTsGS5Prgwce8XhHKsKoLAzo63qkAmMuplw==",
+  "dgSpecHash": "JPdm3LLnhsgkd0Qd6IzdycDJ4d22aRf70k+Gyxk0+ZApBZ8sVoGSo12i23q0UBzaouvfVSskfN22Pr+5gEIG1A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\iury silva\\Documents\\GitHub\\Personal-Kafka\\Kafka-Producer\\Kafka-Producer.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\iury silva\\Documents\\GitHub\\Personal-Kafka\\Kafka-Producer\\KafkaPublisher.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\iury silva\\.nuget\\packages\\confluent.kafka\\1.9.4-rc1\\confluent.kafka.1.9.4-rc1.nupkg.sha512",
+    "C:\\Users\\iury silva\\.nuget\\packages\\librdkafka.redist\\1.9.3-rc2\\librdkafka.redist.1.9.3-rc2.nupkg.sha512",
+    "C:\\Users\\iury silva\\.nuget\\packages\\system.memory\\4.5.0\\system.memory.4.5.0.nupkg.sha512"
+  ],
   "logs": []
 }

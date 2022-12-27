@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "cmgDCTew03ALIiB7Ab46H6FLtbFiBnKHDBFOBo9FayEX2Ljk7+DlTNnMvwC48Rk8JY10eGb0EpGj+ozF93+ejg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\iury silva\\Documents\\GitHub\\Personal-Kafka\\KafkaConsumer\\KafkaConsumer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\iury silva\\.nuget\\packages\\confluent.kafka\\1.9.4-rc1\\confluent.kafka.1.9.4-rc1.nupkg.sha512",
+    "C:\\Users\\iury silva\\.nuget\\packages\\librdkafka.redist\\1.9.3-rc2\\librdkafka.redist.1.9.3-rc2.nupkg.sha512",
+    "C:\\Users\\iury silva\\.nuget\\packages\\system.memory\\4.5.0\\system.memory.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
